@@ -1,6 +1,6 @@
 # SSA SCV Tutorial: Creating data plots for effective decision-making using statistical inference with R 
 
-<img src="SCV3.png" align="right" height=138.5"/> 
+<img src="SCV3.png" align="right" width="150" />
 
 Website: [https://StatSocAus.github.io/tutorial_effective_data_plots](https://StatSocAus.github.io/tutorial_effective_data_plots)
 
