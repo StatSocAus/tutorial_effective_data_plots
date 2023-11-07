@@ -44,11 +44,11 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "nullabor", "colorspace", "palmerpenguins", "broom"))
 ```
 
-2. Download the [Zip file of materials](https://dicook.github.io/LatinR/vis-tutorial.zip) to your laptop, and unzip it. 
+2. Download the [Zip file of materials]() to your laptop, and unzip it. 
 
 3. Open your RStudio be clicking on `tutorial.Rproj`. 
 
-There might be a few more packages ot install to run various parts.
+There might be a few more packages to install to run various parts.
 
 GitHub repo with all materials is 
-[https://github.com/dicook/LatinR](https://github.com/dicook/LatinR).
+[https://statsocaus.github.io/tutorial_effective_data_plots/](https://statsocaus.github.io/tutorial_effective_data_plots/).
