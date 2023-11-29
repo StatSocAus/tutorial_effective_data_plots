@@ -42,7 +42,7 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 1. You should have a reasonably up to date version of R and R Studio, eg RStudio RStudio 2023.06.2 +561 and R version 4.3.1 (2023-06-16). Install the following packages, and their dependencies.
 
 ```
-install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "stringr", "nullabor", "colorspace", "palmerpenguins", "broom", "ggbeeswarm"))
+install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "stringr", "nullabor", "colorspace", "palmerpenguins", "broom", "ggbeeswarm"), dependencies=c("Depends", "Imports"))
 ```
 
 2. Download the [Zip file of materials]() to your laptop, and unzip it. 
