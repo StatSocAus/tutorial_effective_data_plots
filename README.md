@@ -21,15 +21,15 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 
 | time | topic |
 |------|-------|
-|1:40-1:55|	Why, philosophy and benefits|
-|1:55-2:15|	Organising data to map variables to plots|
-|2:15-2:45|	Making a variety of plots|
-|2:45-3:10|	Do but don’t, and cognitive principles|
-|3:10-3:40|	COFFEE BREAK|
-|3:40-4:00|	What is your plot testing?|
-|4:00-4:15|	Creating null samples|
-|4:15-4:45|	Conducting a lineup test|
-|4:45-5:00|	Testing for best plot design|
+|1:00-1:15|	Why, philosophy and benefits|
+|1:15-1:35|	Organising data to map variables to plots|
+|1:35-2:05|	Making a variety of plots|
+|2:05-2:30|	Do but don’t, and cognitive principles|
+|2:30-3:00|	BREAK|
+|3:00-3:20|	What is your plot testing?|
+|3:20-3:35|	Creating null samples|
+|3:35-4:00|	Conducting a lineup test|
+|4:00-4:30|	Testing for best plot design|
 
 [Session 1 Slides]()
 
@@ -41,7 +41,7 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 
 1. You should have a reasonably up to date version of R and R Studio, eg RStudio RStudio 2023.06.2 +561 and R version 4.3.1 (2023-06-16). 
 ```
-install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "nullabor", "colorspace", "palmerpenguins", "broom"))
+install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "nullabor", "colorspace", "palmerpenguins", "broom", "ggbeeswarm"))
 ```
 
 2. Download the [Zip file of materials]() to your laptop, and unzip it. 
