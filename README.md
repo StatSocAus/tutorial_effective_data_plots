@@ -45,7 +45,7 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "stringr", "nullabor", "colorspace", "palmerpenguins", "broom", "ggbeeswarm"), dependencies=c("Depends", "Imports"))
 ```
 
-2. Download the [Zip file of materials]() to your laptop, and unzip it. 
+2. Download the [Zip file of materials](https://statsocaus.github.io/tutorial_effective_data_plots/tutorial.zip) to your laptop, and unzip it. 
 
 3. Open your RStudio be clicking on `tutorial.Rproj`. 
 
