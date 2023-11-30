@@ -31,11 +31,11 @@ Background: Participants should have a good working knowledge of R, and tidy ver
 |3:35-4:00|	Conducting a lineup test|
 |4:00-4:30|	Testing for best plot design|
 
-[Session 1 Slides]()
+[Session 1 Slides](https://statsocaus.github.io/tutorial_effective_data_plots/slides1.html)
 
-[Session 2 Slides]()
+[Session 2 Slides](https://statsocaus.github.io/tutorial_effective_data_plots/slides2.html)
 
-[Zip file of materials]()
+[Zip file of materials](https://statsocaus.github.io/tutorial_effective_data_plots/tutorial.zip)
 
 ## Getting started
 
