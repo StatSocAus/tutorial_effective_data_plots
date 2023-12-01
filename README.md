@@ -4,6 +4,10 @@
 
 Website: [https://StatSocAus.github.io/tutorial_effective_data_plots](https://StatSocAus.github.io/tutorial_effective_data_plots)
 
+This is for statisticians and data science practitioners who are interested in improving their data visualisation skills. 
+
+**Presenter**: Dianne Cook is Professor of Business Analytics at Monash University in Melbourne, Australia.  She is a world leader in data visualisation, especially the visualisation of high-dimensional data using tours with low-dimensional projections, and projection pursuit.  She is currently focusing on bridging the gap between exploratory graphics and statistical inference.  Di is a Fellow of the American Statistical Association, past editor of the Journal of Computational and Graphical Statistics, current editor of the R Journal, elected Ordinary Member of the R Foundation, and elected member of the International Statistical Institute.
+
 ## Structure of tutorial
 
 - Review of making effective plots using ggplot2's grammar of graphics:
