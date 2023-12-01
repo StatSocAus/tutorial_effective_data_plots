@@ -47,7 +47,10 @@ install.packages(c("ggplot2", "tidyr", "dplyr", "readr", "stringr", "nullabor", 
 
 2. Download the [Zip file of materials](https://statsocaus.github.io/tutorial_effective_data_plots/tutorial.zip) to your laptop, and unzip it. 
 
-3. Open your RStudio be clicking on `tutorial.Rproj`. 
+3. Download just the R scripts, [slides1.R](https://statsocaus.github.io/tutorial_effective_data_plots/slides1.R), [slides2.R](https://statsocaus.github.io/tutorial_effective_data_plots/slides2.R)
+
+4. Open your RStudio be clicking on `tutorial.Rproj`. 
 
 GitHub repo with all materials is 
 [https://statsocaus.github.io/tutorial_effective_data_plots/](https://statsocaus.github.io/tutorial_effective_data_plots/).
+
